@@ -1,0 +1,35 @@
+commit fcffd9a8d6d438d34436261017e5d35ffc2d4030 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: matea88 <matea.manova@gmail.com>
+Date:   Sat Mar 30 21:23:25 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 1f800717c55a49d84413a2e3b0fee194c9da67e4
+Author: matea88 <matea.manova@gmail.com>
+Date:   Sat Mar 30 21:09:04 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit e7996b9ccb5e65bf1c44d975e354ee8827eb4760 (origin/bug1, bug1)
+Author: matea88 <matea.manova@gmail.com>
+Date:   Sat Mar 30 21:20:15 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 88e3dc06ee07fcc2150a07c9647803cbe1e7358f
+Author: matea88 <matea.manova@gmail.com>
+Date:   Sat Mar 30 21:04:12 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 685481b812152f1c97f7627fc7a84b2d2f56bf69
+Author: matea88 <matea.manova@gmail.com>
+Date:   Sat Mar 30 20:46:48 2024 +0100
+
+    Add starter code
+
+commit 19481adaebd16b3149f6457f1ef3606ead24a65d
+Author: matea88 <matea.manova@gmail.com>
+Date:   Sat Mar 30 20:38:16 2024 +0100
+
+    Initial commit
